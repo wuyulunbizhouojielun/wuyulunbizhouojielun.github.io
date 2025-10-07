@@ -7,4 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a M.S. student at Zhejiang University (Hangzhou, China). I mainly work on computer vision, multi-sensor fusion algorithms, and bio-inspired sensors. I am also deeply interested in LLMs/VLMs. Feel free to reach out for collaboration and discussion!
+I am currently a M.S. student at the College of Optical Science and Engineering (COSE), Zhejiang University, advised by Prof. Kaiwei Wang.
+My research interests include:
+  · Model compression (LLMs/VLMs Quantization)
+  · Reasoning models (Text-only/Multi modality)
+  · Event camera
+  · Autonomous Driving 
