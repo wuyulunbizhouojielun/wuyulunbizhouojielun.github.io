@@ -15,6 +15,6 @@ author_profile: true
 </div>
 
 <p style="margin-top:1rem;">
-  若无法在线预览，请点击
-  <a href="{{ '/files/cv.pdf' | relative_url }}">下载 CV PDF</a>。
+  If online preview is unavailable, please click
+  <a href="{{ '/files/cv.pdf' | relative_url }}">Download CV PDF</a>。
 </p>
